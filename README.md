@@ -1,31 +1,29 @@
-### Descripton:
+## Descripton:
 The goal of this challenge is to estimate the death toll from a pandemic that spreads widely, with an emphasis on the Covid-19 outbreak in India. Accurate death count forecasting is intended to support emergency preparedness and resource allocation.
 
-### Key Features:
+## Key Features:
 
-## Dataset:
+### Dataset:
  From January 2020 to August 2021, records of Covid-19 instances in India's various states are included in this dataset. It contains data on the quantity of cases, patients who have recovered, and fatalities. Predictive model evaluation and training depend heavily on the dataset.
 
-## Methodology:
+### Methodology:
   Model selection, hyperparameter tuning, feature engineering, and thorough preprocessing.
 
-## Evaluation statistic: 
+### Evaluation statistic: 
   Any pertinent statistic that quantifies the discrepancy between expected and actual deaths, such as Mean Absolute Error (MAE) or Root Mean Squared Error (RMSE), will be used to evaluate the models' performance.
 
-## Models Explored:
+### Models Explored:
   The following models were investigated: gradient boosting, random forest, decision tree, and linear regression.
 
-## Final Model:
+### Final Model:
   The final model is a gradient boosting regression with optimized hyperparameters and polynomial features.
 
-## Architecture: 
+### Architecture: 
   The Gradient Boosting Regressor was selected because of its resilience against overfitting and capacity to manage intricate, non-linear data interactions. It creates a strong predictive model by the iterative combination of weak learners, making accurate predictions necessary for healthcare resource allocation.
 
-  ![image](https://github.com/priyarajmohan777/Shaastra-Techathon-AIML/assets/119475942/be0da18a-e4ba-412e-aba8-7c2919345c96)
+## The Code for the Model:
 
-### The Code for the Model:
-
-### Result:
+## Result:
   The final model proved to be useful in predicting pandemic-related mortality, exhibiting good predictive potential with low errors. Important factors that helped with planning and resource allocation included date, population density, confirmed cases, and cured patients. These factors also played critical roles in the projections.
  
 
