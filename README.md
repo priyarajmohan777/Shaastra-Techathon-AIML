@@ -1,1 +1,21 @@
-# Shaastra-Techathon-AIML
+### AIM:
+
+
+
+
+
+### PROCEDURE:
+
+
+
+
+### CODE:
+```
+INSERT CODE HERE
+
+```
+
+### RESULT:
+
+
+
