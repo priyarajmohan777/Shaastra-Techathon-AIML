@@ -20,6 +20,8 @@ The goal of this challenge is to estimate the death toll from a pandemic that sp
 
 ### Architecture: 
   The Gradient Boosting Regressor was selected because of its resilience against overfitting and capacity to manage intricate, non-linear data interactions. It creates a strong predictive model by the iterative combination of weak learners, making accurate predictions necessary for healthcare resource allocation.
+  ![image](https://github.com/priyarajmohan777/Shaastra-Techathon-AIML/assets/119475942/490fccc8-2e77-4531-a57e-00a0790abcdd)
+
 
 ## The Code for the Model:
 
