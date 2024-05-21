@@ -20,10 +20,15 @@ The goal of this challenge is to estimate the death toll from a pandemic that sp
 
 ### Architecture: 
   The Gradient Boosting Regressor was selected because of its resilience against overfitting and capacity to manage intricate, non-linear data interactions. It creates a strong predictive model by the iterative combination of weak learners, making accurate predictions necessary for healthcare resource allocation.
+**  Data Processing:**
   ![image](https://github.com/priyarajmohan777/Shaastra-Techathon-AIML/assets/119475942/490fccc8-2e77-4531-a57e-00a0790abcdd)
+
+**  Model Training:**
+![image](https://github.com/priyarajmohan777/Shaastra-Techathon-AIML/assets/119475942/0dbf5856-47fa-4402-a186-2dcd00177c06)
 
 
 ## The Code for the Model:
+https://github.com/priyarajmohan777/Shaastra-Techathon-AIML/blob/main/iit%20final%20report%20.ipynb
 
 ## Result:
   The final model proved to be useful in predicting pandemic-related mortality, exhibiting good predictive potential with low errors. Important factors that helped with planning and resource allocation included date, population density, confirmed cases, and cured patients. These factors also played critical roles in the projections.
